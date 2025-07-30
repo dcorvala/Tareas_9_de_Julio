@@ -1,8 +1,7 @@
 # Tareas_9_de_Julio
 # 📊 Diplomatura en Análisis de Datos – Localidad 9 de Julio
 
-![Banner Análisis de Datos](sandbox:/mnt/data/A_banner_graphic_for_a_data_analysis_diploma_progr.png)
-
+![Banner Análisis de Datos](banner_diplomatura.png)
 Bienvenidos al repositorio oficial que contiene las **notebooks desarrolladas en Google Colab y Jupyter** por los alumnos de la Diplomatura en **Introducción a la Programación y Análisis de Datos** en la localidad de **9 de Julio**.
 
 ---
@@ -70,5 +69,6 @@ Este repositorio corresponde a la **Diplomatura en Introducción a la Programaci
 ---
 
 ## 👨‍🏫 Profesor Responsable
-**Dario Corvalán**
+**Dario Corvalán** 
+
 **Sebastian Udaeta**
